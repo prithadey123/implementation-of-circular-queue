@@ -7,7 +7,6 @@ A Circular Queue follows the **FIFO (First In, First Out)** principle, but unlik
 - Uses modulo (`%`) operation for circular movement.
 
 ---
-
  Source Code
 
 ```c
